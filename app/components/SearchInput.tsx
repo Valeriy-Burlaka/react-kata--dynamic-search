@@ -15,23 +15,6 @@ interface Props {
   products: Products;
 }
 
-function getFirstTenProductsSorted (products: Products) {
-  console.time("sorting");
-  const result = products.toSorted((a, b) => {
-    if (a.name < b.name) {
-      return -1;
-    } else if (a.name > b.name) {
-      return 1;
-    } else {
-      return 0
-    }
-  }).slice(0, 10);
-
-  console.timeEnd("sorting");
-
-  return result;
-}
-
 export function SearchInput({ products }: Props) {
 
   const [searchValue, setSearchValue] = useState("");
