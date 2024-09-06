@@ -1,0 +1,64 @@
+.ant-input-affix-wrapper input::placeholder {
+  color: rgba(255, 255, 255, 0.45) !important;
+}
+.ant-input-affix-wrapper::placeholder {
+  color: rgba(255, 255, 255, 0.45) !important;
+}
+
+.ant-input::placeholder {
+  color: rgba(255, 255, 255, 0.45) !important;
+}
+
+.ant-input-affix-wrapper input {
+  color: white !important;
+}
+
+.ant-input-affix-wrapper {
+  background-color: #333333 !important;
+  border: none !important;
+}
+
+.ant-input-affix-wrapper:hover, .ant-input-affix-wrapper:focus {
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* Drop-down */
+/* Forceful updates for autocomplete dropdown */
+.ant-select-dropdown {
+  background-color: #444444 !important;
+  border: 1px solid #555555 !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15) !important;
+}
+
+.ant-select-item {
+  padding: 8px 12px !important;
+}
+
+.ant-select-item-option-content,
+.ant-select-item-option-content span,
+.ant-select-item * {
+  color: white !important;
+}
+
+.ant-select-item-option-content {
+  color: white !important;
+}
+
+.ant-select-item-option-active:not(.ant-select-item-option-disabled) {
+  background-color: #555555 !important;
+}
+
+.ant-select-item-option-selected:not(.ant-select-item-option-disabled) {
+  background-color: #666666 !important;
+}
+
+/* Ensure the dropdown width matches the input */
+.ant-select-dropdown {
+  min-width: 400px !important;
+}
+
+/* Add a subtle border radius to the dropdown */
+.ant-select-dropdown {
+  border-radius: 0 0 8px 8px !important;
+}

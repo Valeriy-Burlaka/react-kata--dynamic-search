@@ -1,0 +1,3914 @@
+[
+  {
+    "id": 1,
+    "name": "Book"
+  },
+  {
+    "id": 2,
+    "name": "Pencil"
+  },
+  {
+    "id": 3,
+    "name": "Apple"
+  },
+  {
+    "id": 4,
+    "name": "Notebook"
+  },
+  {
+    "id": 5,
+    "name": "Pen"
+  },
+  {
+    "id": 6,
+    "name": "Banana"
+  },
+  {
+    "id": 7,
+    "name": "Eraser"
+  },
+  {
+    "id": 8,
+    "name": "Orange"
+  },
+  {
+    "id": 9,
+    "name": "Marker"
+  },
+  {
+    "id": 10,
+    "name": "Laptop"
+  },
+  {
+    "id": 11,
+    "name": "Chair"
+  },
+  {
+    "id": 12,
+    "name": "Table"
+  },
+  {
+    "id": 13,
+    "name": "Carpet"
+  },
+  {
+    "id": 14,
+    "name": "Lamp"
+  },
+  {
+    "id": 15,
+    "name": "Clock"
+  },
+  {
+    "id": 16,
+    "name": "Desk"
+  },
+  {
+    "id": 17,
+    "name": "Stapler"
+  },
+  {
+    "id": 18,
+    "name": "Telephone"
+  },
+  {
+    "id": 19,
+    "name": "Keyboard"
+  },
+  {
+    "id": 20,
+    "name": "Mouse"
+  },
+  {
+    "id": 21,
+    "name": "Monitor"
+  },
+  {
+    "id": 22,
+    "name": "Printer"
+  },
+  {
+    "id": 23,
+    "name": "Scanner"
+  },
+  {
+    "id": 24,
+    "name": "Headphones"
+  },
+  {
+    "id": 25,
+    "name": "Speaker"
+  },
+  {
+    "id": 26,
+    "name": "Microphone"
+  },
+  {
+    "id": 27,
+    "name": "Camera"
+  },
+  {
+    "id": 28,
+    "name": "Smartphone"
+  },
+  {
+    "id": 29,
+    "name": "Tablet"
+  },
+  {
+    "id": 30,
+    "name": "Charger"
+  },
+  {
+    "id": 31,
+    "name": "Cup"
+  },
+  {
+    "id": 32,
+    "name": "Plate"
+  },
+  {
+    "id": 33,
+    "name": "Fork"
+  },
+  {
+    "id": 34,
+    "name": "Spoon"
+  },
+  {
+    "id": 35,
+    "name": "Knife"
+  },
+  {
+    "id": 36,
+    "name": "Bowl"
+  },
+  {
+    "id": 37,
+    "name": "Mug"
+  },
+  {
+    "id": 38,
+    "name": "Glass"
+  },
+  {
+    "id": 39,
+    "name": "Napkin"
+  },
+  {
+    "id": 40,
+    "name": "Tablecloth"
+  },
+  {
+    "id": 41,
+    "name": "Coaster"
+  },
+  {
+    "id": 42,
+    "name": "Tray"
+  },
+  {
+    "id": 43,
+    "name": "Kettle"
+  },
+  {
+    "id": 44,
+    "name": "Toaster"
+  },
+  {
+    "id": 45,
+    "name": "Microwave"
+  },
+  {
+    "id": 46,
+    "name": "Refrigerator"
+  },
+  {
+    "id": 47,
+    "name": "Oven"
+  },
+  {
+    "id": 48,
+    "name": "Blender"
+  },
+  {
+    "id": 49,
+    "name": "Mixer"
+  },
+  {
+    "id": 50,
+    "name": "Grater"
+  },
+  {
+    "id": 51,
+    "name": "Peeler"
+  },
+  {
+    "id": 52,
+    "name": "Colander"
+  },
+  {
+    "id": 53,
+    "name": "Whisk"
+  },
+  {
+    "id": 54,
+    "name": "Ladle"
+  },
+  {
+    "id": 55,
+    "name": "Spatula"
+  },
+  {
+    "id": 56,
+    "name": "Tongs"
+  },
+  {
+    "id": 57,
+    "name": "Cutting board"
+  },
+  {
+    "id": 58,
+    "name": "Measuring cup"
+  },
+  {
+    "id": 59,
+    "name": "Measuring spoon"
+  },
+  {
+    "id": 60,
+    "name": "Scale"
+  },
+  {
+    "id": 61,
+    "name": "Timer"
+  },
+  {
+    "id": 62,
+    "name": "Apron"
+  },
+  {
+    "id": 63,
+    "name": "Oven mitt"
+  },
+  {
+    "id": 64,
+    "name": "Dish towel"
+  },
+  {
+    "id": 65,
+    "name": "Sponge"
+  },
+  {
+    "id": 66,
+    "name": "Dishwasher"
+  },
+  {
+    "id": 67,
+    "name": "Trash can"
+  },
+  {
+    "id": 68,
+    "name": "Recycling bin"
+  },
+  {
+    "id": 69,
+    "name": "Broom"
+  },
+  {
+    "id": 70,
+    "name": "Dustpan"
+  },
+  {
+    "id": 71,
+    "name": "Mop"
+  },
+  {
+    "id": 72,
+    "name": "Bucket"
+  },
+  {
+    "id": 73,
+    "name": "Vacuum cleaner"
+  },
+  {
+    "id": 74,
+    "name": "Duster"
+  },
+  {
+    "id": 75,
+    "name": "Window cleaner"
+  },
+  {
+    "id": 76,
+    "name": "Paper towel"
+  },
+  {
+    "id": 77,
+    "name": "Soap"
+  },
+  {
+    "id": 78,
+    "name": "Detergent"
+  },
+  {
+    "id": 79,
+    "name": "Bleach"
+  },
+  {
+    "id": 80,
+    "name": "Air freshener"
+  },
+  {
+    "id": 81,
+    "name": "Candle"
+  },
+  {
+    "id": 82,
+    "name": "Matches"
+  },
+  {
+    "id": 83,
+    "name": "Lighter"
+  },
+  {
+    "id": 84,
+    "name": "Flashlight"
+  },
+  {
+    "id": 85,
+    "name": "Battery"
+  },
+  {
+    "id": 86,
+    "name": "Extension cord"
+  },
+  {
+    "id": 87,
+    "name": "Power strip"
+  },
+  {
+    "id": 88,
+    "name": "Adapter"
+  },
+  {
+    "id": 89,
+    "name": "Remote control"
+  },
+  {
+    "id": 90,
+    "name": "Television"
+  },
+  {
+    "id": 91,
+    "name": "DVD player"
+  },
+  {
+    "id": 92,
+    "name": "Gaming console"
+  },
+  {
+    "id": 93,
+    "name": "Controller"
+  },
+  {
+    "id": 94,
+    "name": "Router"
+  },
+  {
+    "id": 95,
+    "name": "Modem"
+  },
+  {
+    "id": 96,
+    "name": "Hard drive"
+  },
+  {
+    "id": 97,
+    "name": "USB drive"
+  },
+  {
+    "id": 98,
+    "name": "Memory card"
+  },
+  {
+    "id": 99,
+    "name": "CD"
+  },
+  {
+    "id": 100,
+    "name": "DVD"
+  },
+  {
+    "id": 101,
+    "name": "Bookshelf"
+  },
+  {
+    "id": 102,
+    "name": "Sofa"
+  },
+  {
+    "id": 103,
+    "name": "Armchair"
+  },
+  {
+    "id": 104,
+    "name": "Coffee table"
+  },
+  {
+    "id": 105,
+    "name": "End table"
+  },
+  {
+    "id": 106,
+    "name": "TV stand"
+  },
+  {
+    "id": 107,
+    "name": "Dresser"
+  },
+  {
+    "id": 108,
+    "name": "Wardrobe"
+  },
+  {
+    "id": 109,
+    "name": "Nightstand"
+  },
+  {
+    "id": 110,
+    "name": "Bed"
+  },
+  {
+    "id": 111,
+    "name": "Mattress"
+  },
+  {
+    "id": 112,
+    "name": "Pillow"
+  },
+  {
+    "id": 113,
+    "name": "Blanket"
+  },
+  {
+    "id": 114,
+    "name": "Comforter"
+  },
+  {
+    "id": 115,
+    "name": "Sheet"
+  },
+  {
+    "id": 116,
+    "name": "Pillowcase"
+  },
+  {
+    "id": 117,
+    "name": "Curtain"
+  },
+  {
+    "id": 118,
+    "name": "Blinds"
+  },
+  {
+    "id": 119,
+    "name": "Rug"
+  },
+  {
+    "id": 120,
+    "name": "Mirror"
+  },
+  {
+    "id": 121,
+    "name": "Picture frame"
+  },
+  {
+    "id": 122,
+    "name": "Painting"
+  },
+  {
+    "id": 123,
+    "name": "Poster"
+  },
+  {
+    "id": 124,
+    "name": "Vase"
+  },
+  {
+    "id": 125,
+    "name": "Plant"
+  },
+  {
+    "id": 126,
+    "name": "Flower"
+  },
+  {
+    "id": 127,
+    "name": "Watering can"
+  },
+  {
+    "id": 128,
+    "name": "Planter"
+  },
+  {
+    "id": 129,
+    "name": "Fertilizer"
+  },
+  {
+    "id": 130,
+    "name": "Gardening gloves"
+  },
+  {
+    "id": 131,
+    "name": "Trowel"
+  },
+  {
+    "id": 132,
+    "name": "Rake"
+  },
+  {
+    "id": 133,
+    "name": "Shovel"
+  },
+  {
+    "id": 134,
+    "name": "Hoe"
+  },
+  {
+    "id": 135,
+    "name": "Lawn mower"
+  },
+  {
+    "id": 136,
+    "name": "Hedge trimmer"
+  },
+  {
+    "id": 137,
+    "name": "Wheelbarrow"
+  },
+  {
+    "id": 138,
+    "name": "Hose"
+  },
+  {
+    "id": 139,
+    "name": "Sprinkler"
+  },
+  {
+    "id": 140,
+    "name": "Fence"
+  },
+  {
+    "id": 141,
+    "name": "Gate"
+  },
+  {
+    "id": 142,
+    "name": "Mailbox"
+  },
+  {
+    "id": 143,
+    "name": "Doorbell"
+  },
+  {
+    "id": 144,
+    "name": "Door mat"
+  },
+  {
+    "id": 145,
+    "name": "Key"
+  },
+  {
+    "id": 146,
+    "name": "Lock"
+  },
+  {
+    "id": 147,
+    "name": "Doorknob"
+  },
+  {
+    "id": 148,
+    "name": "Hinge"
+  },
+  {
+    "id": 149,
+    "name": "Nail"
+  },
+  {
+    "id": 150,
+    "name": "Screw"
+  },
+  {
+    "id": 151,
+    "name": "Hammer"
+  },
+  {
+    "id": 152,
+    "name": "Screwdriver"
+  },
+  {
+    "id": 153,
+    "name": "Wrench"
+  },
+  {
+    "id": 154,
+    "name": "Pliers"
+  },
+  {
+    "id": 155,
+    "name": "Drill"
+  },
+  {
+    "id": 156,
+    "name": "Saw"
+  },
+  {
+    "id": 157,
+    "name": "Sandpaper"
+  },
+  {
+    "id": 158,
+    "name": "Paint"
+  },
+  {
+    "id": 159,
+    "name": "Paintbrush"
+  },
+  {
+    "id": 160,
+    "name": "Roller"
+  },
+  {
+    "id": 161,
+    "name": "Tape measure"
+  },
+  {
+    "id": 162,
+    "name": "Level"
+  },
+  {
+    "id": 163,
+    "name": "Ladder"
+  },
+  {
+    "id": 164,
+    "name": "Toolbox"
+  },
+  {
+    "id": 165,
+    "name": "Workbench"
+  },
+  {
+    "id": 166,
+    "name": "Safety goggles"
+  },
+  {
+    "id": 167,
+    "name": "Gloves"
+  },
+  {
+    "id": 168,
+    "name": "Mask"
+  },
+  {
+    "id": 169,
+    "name": "Helmet"
+  },
+  {
+    "id": 170,
+    "name": "First aid kit"
+  },
+  {
+    "id": 171,
+    "name": "Bandage"
+  },
+  {
+    "id": 172,
+    "name": "Antiseptic"
+  },
+  {
+    "id": 173,
+    "name": "Thermometer"
+  },
+  {
+    "id": 174,
+    "name": "Medicine"
+  },
+  {
+    "id": 175,
+    "name": "Vitamins"
+  },
+  {
+    "id": 176,
+    "name": "Toothbrush"
+  },
+  {
+    "id": 177,
+    "name": "Toothpaste"
+  },
+  {
+    "id": 178,
+    "name": "Floss"
+  },
+  {
+    "id": 179,
+    "name": "Mouthwash"
+  },
+  {
+    "id": 180,
+    "name": "Razor"
+  },
+  {
+    "id": 181,
+    "name": "Shaving cream"
+  },
+  {
+    "id": 182,
+    "name": "Aftershave"
+  },
+  {
+    "id": 183,
+    "name": "Deodorant"
+  },
+  {
+    "id": 184,
+    "name": "Perfume"
+  },
+  {
+    "id": 185,
+    "name": "Cologne"
+  },
+  {
+    "id": 186,
+    "name": "Lotion"
+  },
+  {
+    "id": 187,
+    "name": "Sunscreen"
+  },
+  {
+    "id": 188,
+    "name": "Shampoo"
+  },
+  {
+    "id": 189,
+    "name": "Conditioner"
+  },
+  {
+    "id": 190,
+    "name": "Hairbrush"
+  },
+  {
+    "id": 191,
+    "name": "Comb"
+  },
+  {
+    "id": 192,
+    "name": "Hair dryer"
+  },
+  {
+    "id": 193,
+    "name": "Straightener"
+  },
+  {
+    "id": 194,
+    "name": "Curling iron"
+  },
+  {
+    "id": 195,
+    "name": "Hair tie"
+  },
+  {
+    "id": 196,
+    "name": "Bobby pin"
+  },
+  {
+    "id": 197,
+    "name": "Nail clipper"
+  },
+  {
+    "id": 198,
+    "name": "Nail file"
+  },
+  {
+    "id": 199,
+    "name": "Nail polish"
+  },
+  {
+    "id": 200,
+    "name": "Makeup"
+  },
+  {
+    "id": 201,
+    "name": "Lipstick"
+  },
+  {
+    "id": 202,
+    "name": "Mascara"
+  },
+  {
+    "id": 203,
+    "name": "Eyeshadow"
+  },
+  {
+    "id": 204,
+    "name": "Foundation"
+  },
+  {
+    "id": 205,
+    "name": "Blush"
+  },
+  {
+    "id": 206,
+    "name": "Concealer"
+  },
+  {
+    "id": 207,
+    "name": "Eyeliner"
+  },
+  {
+    "id": 208,
+    "name": "Makeup remover"
+  },
+  {
+    "id": 209,
+    "name": "Cotton swab"
+  },
+  {
+    "id": 210,
+    "name": "Cotton ball"
+  },
+  {
+    "id": 211,
+    "name": "Tissue"
+  },
+  {
+    "id": 212,
+    "name": "Toilet paper"
+  },
+  {
+    "id": 213,
+    "name": "Towel"
+  },
+  {
+    "id": 214,
+    "name": "Washcloth"
+  },
+  {
+    "id": 215,
+    "name": "Shower curtain"
+  },
+  {
+    "id": 216,
+    "name": "Bath mat"
+  },
+  {
+    "id": 217,
+    "name": "Scale"
+  },
+  {
+    "id": 218,
+    "name": "Toilet brush"
+  },
+  {
+    "id": 219,
+    "name": "Plunger"
+  },
+  {
+    "id": 220,
+    "name": "Toilet"
+  },
+  {
+    "id": 221,
+    "name": "Sink"
+  },
+  {
+    "id": 222,
+    "name": "Faucet"
+  },
+  {
+    "id": 223,
+    "name": "Shower"
+  },
+  {
+    "id": 224,
+    "name": "Bathtub"
+  },
+  {
+    "id": 225,
+    "name": "Drain"
+  },
+  {
+    "id": 226,
+    "name": "Pipe"
+  },
+  {
+    "id": 227,
+    "name": "Water heater"
+  },
+  {
+    "id": 228,
+    "name": "Furnace"
+  },
+  {
+    "id": 229,
+    "name": "Air conditioner"
+  },
+  {
+    "id": 230,
+    "name": "Thermostat"
+  },
+  {
+    "id": 231,
+    "name": "Fan"
+  },
+  {
+    "id": 232,
+    "name": "Humidifier"
+  },
+  {
+    "id": 233,
+    "name": "Dehumidifier"
+  },
+  {
+    "id": 234,
+    "name": "Air purifier"
+  },
+  {
+    "id": 235,
+    "name": "Smoke detector"
+  },
+  {
+    "id": 236,
+    "name": "Carbon monoxide detector"
+  },
+  {
+    "id": 237,
+    "name": "Fire extinguisher"
+  },
+  {
+    "id": 238,
+    "name": "Alarm system"
+  },
+  {
+    "id": 239,
+    "name": "Security camera"
+  },
+  {
+    "id": 240,
+    "name": "Doorbell camera"
+  },
+  {
+    "id": 241,
+    "name": "Smart speaker"
+  },
+  {
+    "id": 242,
+    "name": "Voice assistant"
+  },
+  {
+    "id": 243,
+    "name": "Smart bulb"
+  },
+  {
+    "id": 244,
+    "name": "Smart plug"
+  },
+  {
+    "id": 245,
+    "name": "Smart thermostat"
+  },
+  {
+    "id": 246,
+    "name": "Robot vacuum"
+  },
+  {
+    "id": 247,
+    "name": "Ceiling fan"
+  },
+  {
+    "id": 248,
+    "name": "Light switch"
+  },
+  {
+    "id": 249,
+    "name": "Outlet"
+  },
+  {
+    "id": 250,
+    "name": "Extension cord"
+  },
+  {
+    "id": 251,
+    "name": "Surge protector"
+  },
+  {
+    "id": 252,
+    "name": "Fuse"
+  },
+  {
+    "id": 253,
+    "name": "Circuit breaker"
+  },
+  {
+    "id": 254,
+    "name": "Electrical panel"
+  },
+  {
+    "id": 255,
+    "name": "Generator"
+  },
+  {
+    "id": 256,
+    "name": "Solar panel"
+  },
+  {
+    "id": 257,
+    "name": "Wind turbine"
+  },
+  {
+    "id": 258,
+    "name": "Battery bank"
+  },
+  {
+    "id": 259,
+    "name": "Inverter"
+  },
+  {
+    "id": 260,
+    "name": "Transformer"
+  },
+  {
+    "id": 261,
+    "name": "Capacitor"
+  },
+  {
+    "id": 262,
+    "name": "Resistor"
+  },
+  {
+    "id": 263,
+    "name": "Diode"
+  },
+  {
+    "id": 264,
+    "name": "Transistor"
+  },
+  {
+    "id": 265,
+    "name": "Integrated circuit"
+  },
+  {
+    "id": 266,
+    "name": "Microchip"
+  },
+  {
+    "id": 267,
+    "name": "Processor"
+  },
+  {
+    "id": 268,
+    "name": "Motherboard"
+  },
+  {
+    "id": 269,
+    "name": "Graphics card"
+  },
+  {
+    "id": 270,
+    "name": "Sound card"
+  },
+  {
+    "id": 271,
+    "name": "Network card"
+  },
+  {
+    "id": 272,
+    "name": "RAM"
+  },
+  {
+    "id": 273,
+    "name": "SSD"
+  },
+  {
+    "id": 274,
+    "name": "HDD"
+  },
+  {
+    "id": 275,
+    "name": "Optical drive"
+  },
+  {
+    "id": 276,
+    "name": "Power supply"
+  },
+  {
+    "id": 277,
+    "name": "Heat sink"
+  },
+  {
+    "id": 278,
+    "name": "Cooling fan"
+  },
+  {
+    "id": 279,
+    "name": "Thermal paste"
+  },
+  {
+    "id": 280,
+    "name": "Case"
+  },
+  {
+    "id": 281,
+    "name": "Cable"
+  },
+  {
+    "id": 282,
+    "name": "Connector"
+  },
+  {
+    "id": 283,
+    "name": "Port"
+  },
+  {
+    "id": 284,
+    "name": "Antenna"
+  },
+  {
+    "id": 285,
+    "name": "Satellite dish"
+  },
+  {
+    "id": 286,
+    "name": "Radio"
+  },
+  {
+    "id": 287,
+    "name": "Walkie-talkie"
+  },
+  {
+    "id": 288,
+    "name": "Pager"
+  },
+  {
+    "id": 289,
+    "name": "Fax machine"
+  },
+  {
+    "id": 290,
+    "name": "Copier"
+  },
+  {
+    "id": 291,
+    "name": "Shredder"
+  },
+  {
+    "id": 292,
+    "name": "Laminator"
+  },
+  {
+    "id": 293,
+    "name": "Projector"
+  },
+  {
+    "id": 294,
+    "name": "Screen"
+  },
+  {
+    "id": 295,
+    "name": "Whiteboard"
+  },
+  {
+    "id": 296,
+    "name": "Chalkboard"
+  },
+  {
+    "id": 297,
+    "name": "Easel"
+  },
+  {
+    "id": 298,
+    "name": "Flipchart"
+  },
+  {
+    "id": 299,
+    "name": "Podium"
+  },
+  {
+    "id": 300,
+    "name": "Microphone stand"
+  },
+  {
+    "id": 301,
+    "name": "Amplifier"
+  },
+  {
+    "id": 302,
+    "name": "Mixer"
+  },
+  {
+    "id": 303,
+    "name": "Equalizer"
+  },
+  {
+    "id": 304,
+    "name": "Synthesizer"
+  },
+  {
+    "id": 305,
+    "name": "Drum machine"
+  },
+  {
+    "id": 306,
+    "name": "Electric guitar"
+  },
+  {
+    "id": 307,
+    "name": "Bass guitar"
+  },
+  {
+    "id": 308,
+    "name": "Keyboard"
+  },
+  {
+    "id": 309,
+    "name": "Drum kit"
+  },
+  {
+    "id": 310,
+    "name": "Saxophone"
+  },
+  {
+    "id": 311,
+    "name": "Trumpet"
+  },
+  {
+    "id": 312,
+    "name": "Violin"
+  },
+  {
+    "id": 313,
+    "name": "Cello"
+  },
+  {
+    "id": 314,
+    "name": "Flute"
+  },
+  {
+    "id": 315,
+    "name": "Clarinet"
+  },
+  {
+    "id": 316,
+    "name": "Harmonica"
+  },
+  {
+    "id": 317,
+    "name": "Accordion"
+  },
+  {
+    "id": 318,
+    "name": "Piano"
+  },
+  {
+    "id": 319,
+    "name": "Harp"
+  },
+  {
+    "id": 320,
+    "name": "Metronome"
+  },
+  {
+    "id": 321,
+    "name": "Tuner"
+  },
+  {
+    "id": 322,
+    "name": "Music stand"
+  },
+  {
+    "id": 323,
+    "name": "Guitar pick"
+  },
+  {
+    "id": 324,
+    "name": "Drumstick"
+  },
+  {
+    "id": 325,
+    "name": "Violin bow"
+  },
+  {
+    "id": 326,
+    "name": "Reed"
+  },
+  {
+    "id": 327,
+    "name": "Mouthpiece"
+  },
+  {
+    "id": 328,
+    "name": "Capo"
+  },
+  {
+    "id": 329,
+    "name": "Strap"
+  },
+  {
+    "id": 331,
+    "name": "Sheet music"
+  },
+  {
+    "id": 332,
+    "name": "Tuning fork"
+  },
+  {
+    "id": 333,
+    "name": "Conductor\"s baton"
+  },
+  {
+    "id": 334,
+    "name": "Microphone windscreen"
+  },
+  {
+    "id": 335,
+    "name": "Pop filter"
+  },
+  {
+    "id": 336,
+    "name": "Acoustic panel"
+  },
+  {
+    "id": 337,
+    "name": "Studio monitor"
+  },
+  {
+    "id": 338,
+    "name": "Audio interface"
+  },
+  {
+    "id": 339,
+    "name": "MIDI controller"
+  },
+  {
+    "id": 340,
+    "name": "Turntable"
+  },
+  {
+    "id": 341,
+    "name": "Vinyl record"
+  },
+  {
+    "id": 342,
+    "name": "Cassette tape"
+  },
+  {
+    "id": 343,
+    "name": "Reel-to-reel tape"
+  },
+  {
+    "id": 344,
+    "name": "DAT"
+  },
+  {
+    "id": 345,
+    "name": "Minidisc"
+  },
+  {
+    "id": 346,
+    "name": "MP3 player"
+  },
+  {
+    "id": 347,
+    "name": "iPod"
+  },
+  {
+    "id": 348,
+    "name": "Walkman"
+  },
+  {
+    "id": 349,
+    "name": "Boombox"
+  },
+  {
+    "id": 350,
+    "name": "Jukebox"
+  },
+  {
+    "id": 351,
+    "name": "Karaoke machine"
+  },
+  {
+    "id": 352,
+    "name": "Metronome"
+  },
+  {
+    "id": 353,
+    "name": "Tuner"
+  },
+  {
+    "id": 354,
+    "name": "Pitch pipe"
+  },
+  {
+    "id": 355,
+    "name": "Capo"
+  },
+  {
+    "id": 356,
+    "name": "Slide"
+  },
+  {
+    "id": 357,
+    "name": "E-bow"
+  },
+  {
+    "id": 358,
+    "name": "Sustain pedal"
+  },
+  {
+    "id": 359,
+    "name": "Wah-wah pedal"
+  },
+  {
+    "id": 360,
+    "name": "Distortion pedal"
+  },
+  {
+    "id": 361,
+    "name": "Reverb pedal"
+  },
+  {
+    "id": 362,
+    "name": "Delay pedal"
+  },
+  {
+    "id": 363,
+    "name": "Looper pedal"
+  },
+  {
+    "id": 364,
+    "name": "Multi-effects processor"
+  },
+  {
+    "id": 365,
+    "name": "Compressor"
+  },
+  {
+    "id": 366,
+    "name": "Limiter"
+  },
+  {
+    "id": 367,
+    "name": "Noise gate"
+  },
+  {
+    "id": 368,
+    "name": "Preamp"
+  },
+  {
+    "id": 369,
+    "name": "DI box"
+  },
+  {
+    "id": 370,
+    "name": "Power conditioner"
+  },
+  {
+    "id": 371,
+    "name": "Patch bay"
+  },
+  {
+    "id": 372,
+    "name": "Cable tester"
+  },
+  {
+    "id": 373,
+    "name": "Soldering iron"
+  },
+  {
+    "id": 374,
+    "name": "Wire stripper"
+  },
+  {
+    "id": 375,
+    "name": "Multimeter"
+  },
+  {
+    "id": 376,
+    "name": "Oscilloscope"
+  },
+  {
+    "id": 377,
+    "name": "Function generator"
+  },
+  {
+    "id": 378,
+    "name": "Logic analyzer"
+  },
+  {
+    "id": 379,
+    "name": "Spectrum analyzer"
+  },
+  {
+    "id": 380,
+    "name": "Signal generator"
+  },
+  {
+    "id": 381,
+    "name": "Power meter"
+  },
+  {
+    "id": 382,
+    "name": "Frequency counter"
+  },
+  {
+    "id": 383,
+    "name": "Network analyzer"
+  },
+  {
+    "id": 384,
+    "name": "Antenna analyzer"
+  },
+  {
+    "id": 385,
+    "name": "Protocol analyzer"
+  },
+  {
+    "id": 386,
+    "name": "Packet sniffer"
+  },
+  {
+    "id": 387,
+    "name": "Cable tester"
+  },
+  {
+    "id": 388,
+    "name": "Tone generator"
+  },
+  {
+    "id": 389,
+    "name": "Noise generator"
+  },
+  {
+    "id": 390,
+    "name": "Calibrator"
+  },
+  {
+    "id": 391,
+    "name": "Waveform monitor"
+  },
+  {
+    "id": 392,
+    "name": "Vectorscope"
+  },
+  {
+    "id": 393,
+    "name": "Test pattern generator"
+  },
+  {
+    "id": 394,
+    "name": "Color analyzer"
+  },
+  {
+    "id": 395,
+    "name": "Light meter"
+  },
+  {
+    "id": 396,
+    "name": "Decibel meter"
+  },
+  {
+    "id": 397,
+    "name": "Gaussmeter"
+  },
+  {
+    "id": 398,
+    "name": "EMF meter"
+  },
+  {
+    "id": 399,
+    "name": "Radiation detector"
+  },
+  {
+    "id": 400,
+    "name": "Metal detector"
+  },
+  {
+    "id": 401,
+    "name": "Stud finder"
+  },
+  {
+    "id": 402,
+    "name": "Tape measure"
+  },
+  {
+    "id": 403,
+    "name": "Laser distance meter"
+  },
+  {
+    "id": 404,
+    "name": "Theodolite"
+  },
+  {
+    "id": 405,
+    "name": "Transit level"
+  },
+  {
+    "id": 406,
+    "name": "Total station"
+  },
+  {
+    "id": 407,
+    "name": "GPS receiver"
+  },
+  {
+    "id": 408,
+    "name": "Compass"
+  },
+  {
+    "id": 409,
+    "name": "Sextant"
+  },
+  {
+    "id": 410,
+    "name": "Altimeter"
+  },
+  {
+    "id": 411,
+    "name": "Anemometer"
+  },
+  {
+    "id": 412,
+    "name": "Barometer"
+  },
+  {
+    "id": 413,
+    "name": "Hygrometer"
+  },
+  {
+    "id": 414,
+    "name": "Rain gauge"
+  },
+  {
+    "id": 415,
+    "name": "Seismometer"
+  },
+  {
+    "id": 416,
+    "name": "Geiger counter"
+  },
+  {
+    "id": 417,
+    "name": "pH meter"
+  },
+  {
+    "id": 418,
+    "name": "Conductivity meter"
+  },
+  {
+    "id": 419,
+    "name": "Dissolved oxygen meter"
+  },
+  {
+    "id": 420,
+    "name": "Turbidity meter"
+  },
+  {
+    "id": 421,
+    "name": "Colorimeter"
+  },
+  {
+    "id": 422,
+    "name": "Spectrophotometer"
+  },
+  {
+    "id": 423,
+    "name": "Mass spectrometer"
+  },
+  {
+    "id": 424,
+    "name": "Gas chromatograph"
+  },
+  {
+    "id": 425,
+    "name": "HPLC"
+  },
+  {
+    "id": 426,
+    "name": "NMR spectrometer"
+  },
+  {
+    "id": 427,
+    "name": "X-ray diffractometer"
+  },
+  {
+    "id": 428,
+    "name": "Electron microscope"
+  },
+  {
+    "id": 429,
+    "name": "Optical microscope"
+  },
+  {
+    "id": 430,
+    "name": "Fluorescence microscope"
+  },
+  {
+    "id": 431,
+    "name": "Confocal microscope"
+  },
+  {
+    "id": 432,
+    "name": "Atomic force microscope"
+  },
+  {
+    "id": 433,
+    "name": "Centrifuge"
+  },
+  {
+    "id": 435,
+    "name": "Incubator"
+  },
+  {
+    "id": 436,
+    "name": "PCR machine"
+  },
+  {
+    "id": 437,
+    "name": "Gel electrophoresis apparatus"
+  },
+  {
+    "id": 438,
+    "name": "Western blot apparatus"
+  },
+  {
+    "id": 439,
+    "name": "Flow cytometer"
+  },
+  {
+    "id": 440,
+    "name": "Microplate reader"
+  },
+  {
+    "id": 441,
+    "name": "Biosafety cabinet"
+  },
+  {
+    "id": 442,
+    "name": "Fume hood"
+  },
+  {
+    "id": 443,
+    "name": "Pipette"
+  },
+  {
+    "id": 444,
+    "name": "Micropipette"
+  },
+  {
+    "id": 445,
+    "name": "Burette"
+  },
+  {
+    "id": 446,
+    "name": "Volumetric flask"
+  },
+  {
+    "id": 447,
+    "name": "Erlenmeyer flask"
+  },
+  {
+    "id": 448,
+    "name": "Beaker"
+  },
+  {
+    "id": 449,
+    "name": "Test tube"
+  },
+  {
+    "id": 450,
+    "name": "Petri dish"
+  },
+  {
+    "id": 451,
+    "name": "Microscope slide"
+  },
+  {
+    "id": 452,
+    "name": "Cover slip"
+  },
+  {
+    "id": 453,
+    "name": "Crucible"
+  },
+  {
+    "id": 454,
+    "name": "Mortar and pestle"
+  },
+  {
+    "id": 455,
+    "name": "Bunsen burner"
+  },
+  {
+    "id": 456,
+    "name": "Hot plate"
+  },
+  {
+    "id": 457,
+    "name": "Water bath"
+  },
+  {
+    "id": 458,
+    "name": "Desiccator"
+  },
+  {
+    "id": 459,
+    "name": "Vacuum pump"
+  },
+  {
+    "id": 460,
+    "name": "Rotary evaporator"
+  },
+  {
+    "id": 461,
+    "name": "Distillation apparatus"
+  },
+  {
+    "id": 462,
+    "name": "Soxhlet extractor"
+  },
+  {
+    "id": 463,
+    "name": "Titrator"
+  },
+  {
+    "id": 464,
+    "name": "Karl Fischer titrator"
+  },
+  {
+    "id": 465,
+    "name": "Polarimeter"
+  },
+  {
+    "id": 466,
+    "name": "Refractometer"
+  },
+  {
+    "id": 467,
+    "name": "Viscometer"
+  },
+  {
+    "id": 468,
+    "name": "Tensiometer"
+  },
+  {
+    "id": 469,
+    "name": "Rheometer"
+  },
+  {
+    "id": 470,
+    "name": "Particle size analyzer"
+  },
+  {
+    "id": 471,
+    "name": "Zeta potential analyzer"
+  },
+  {
+    "id": 472,
+    "name": "Thermal analyzer"
+  },
+  {
+    "id": 473,
+    "name": "Calorimeter"
+  },
+  {
+    "id": 474,
+    "name": "Bomb calorimeter"
+  },
+  {
+    "id": 475,
+    "name": "Melting point apparatus"
+  },
+  {
+    "id": 476,
+    "name": "Freeze dryer"
+  },
+  {
+    "id": 477,
+    "name": "Spray dryer"
+  },
+  {
+    "id": 478,
+    "name": "Fluid bed dryer"
+  },
+  {
+    "id": 479,
+    "name": "Tablet press"
+  },
+  {
+    "id": 480,
+    "name": "Capsule filling machine"
+  },
+  {
+    "id": 481,
+    "name": "Dissolution tester"
+  },
+  {
+    "id": 482,
+    "name": "Friability tester"
+  },
+  {
+    "id": 483,
+    "name": "Hardness tester"
+  },
+  {
+    "id": 484,
+    "name": "Disintegration tester"
+  },
+  {
+    "id": 485,
+    "name": "Stability chamber"
+  },
+  {
+    "id": 486,
+    "name": "Fermentor"
+  },
+  {
+    "id": 487,
+    "name": "Bioreactor"
+  },
+  {
+    "id": 488,
+    "name": "Laminar flow hood"
+  },
+  {
+    "id": 489,
+    "name": "Clean room"
+  },
+  {
+    "id": 490,
+    "name": "Particle counter"
+  },
+  {
+    "id": 491,
+    "name": "Air sampler"
+  },
+  {
+    "id": 492,
+    "name": "Water purification system"
+  },
+  {
+    "id": 493,
+    "name": "Ultrapure water system"
+  },
+  {
+    "id": 494,
+    "name": "Deionizer"
+  },
+  {
+    "id": 495,
+    "name": "Reverse osmosis system"
+  },
+  {
+    "id": 496,
+    "name": "Filtration system"
+  },
+  {
+    "id": 497,
+    "name": "Ultracentrifuge"
+  },
+  {
+    "id": 498,
+    "name": "Lyophilizer"
+  },
+  {
+    "id": 499,
+    "name": "Homogenizer"
+  },
+  {
+    "id": 500,
+    "name": "Sonicator"
+  },
+  {
+    "id": 501,
+    "name": "Vortex mixer"
+  },
+  {
+    "id": 502,
+    "name": "Shaker"
+  },
+  {
+    "id": 503,
+    "name": "Roller mixer"
+  },
+  {
+    "id": 504,
+    "name": "Magnetic stirrer"
+  },
+  {
+    "id": 505,
+    "name": "Overhead stirrer"
+  },
+  {
+    "id": 506,
+    "name": "Peristaltic pump"
+  },
+  {
+    "id": 507,
+    "name": "Syringe pump"
+  },
+  {
+    "id": 508,
+    "name": "HPLC pump"
+  },
+  {
+    "id": 509,
+    "name": "Vacuum manifold"
+  },
+  {
+    "id": 510,
+    "name": "Solid phase extraction system"
+  },
+  {
+    "id": 511,
+    "name": "Microwave digestion system"
+  },
+  {
+    "id": 512,
+    "name": "Muffle furnace"
+  },
+  {
+    "id": 513,
+    "name": "Tube furnace"
+  },
+  {
+    "id": 514,
+    "name": "Ashing furnace"
+  },
+  {
+    "id": 515,
+    "name": "Induction furnace"
+  },
+  {
+    "id": 516,
+    "name": "Arc furnace"
+  },
+  {
+    "id": 517,
+    "name": "Blast furnace"
+  },
+  {
+    "id": 518,
+    "name": "Smelter"
+  },
+  {
+    "id": 519,
+    "name": "Foundry"
+  },
+  {
+    "id": 520,
+    "name": "Casting machine"
+  },
+  {
+    "id": 521,
+    "name": "Injection molding machine"
+  },
+  {
+    "id": 522,
+    "name": "Extrusion machine"
+  },
+  {
+    "id": 524,
+    "name": "Thermoforming machine"
+  },
+  {
+    "id": 525,
+    "name": "Vacuum forming machine"
+  },
+  {
+    "id": 526,
+    "name": "CNC machine"
+  },
+  {
+    "id": 527,
+    "name": "Lathe"
+  },
+  {
+    "id": 528,
+    "name": "Milling machine"
+  },
+  {
+    "id": 529,
+    "name": "Drill press"
+  },
+  {
+    "id": 530,
+    "name": "Grinding machine"
+  },
+  {
+    "id": 531,
+    "name": "Polishing machine"
+  },
+  {
+    "id": 532,
+    "name": "Sandblaster"
+  },
+  {
+    "id": 533,
+    "name": "Wire EDM machine"
+  },
+  {
+    "id": 534,
+    "name": "Spark erosion machine"
+  },
+  {
+    "id": 535,
+    "name": "Waterjet cutter"
+  },
+  {
+    "id": 536,
+    "name": "Plasma cutter"
+  },
+  {
+    "id": 537,
+    "name": "Laser cutter"
+  },
+  {
+    "id": 538,
+    "name": "3D printer"
+  },
+  {
+    "id": 539,
+    "name": "Additive manufacturing system"
+  },
+  {
+    "id": 540,
+    "name": "Welding machine"
+  },
+  {
+    "id": 541,
+    "name": "Soldering iron"
+  },
+  {
+    "id": 542,
+    "name": "Heat gun"
+  },
+  {
+    "id": 543,
+    "name": "Glue gun"
+  },
+  {
+    "id": 544,
+    "name": "Spray gun"
+  },
+  {
+    "id": 545,
+    "name": "Paint booth"
+  },
+  {
+    "id": 546,
+    "name": "Powder coating system"
+  },
+  {
+    "id": 548,
+    "name": "Electroplating system"
+  },
+  {
+    "id": 549,
+    "name": "Heat treatment furnace"
+  },
+  {
+    "id": 550,
+    "name": "Quenching tank"
+  },
+  {
+    "id": 551,
+    "name": "Tempering oven"
+  },
+  {
+    "id": 552,
+    "name": "Annealing furnace"
+  },
+  {
+    "id": 553,
+    "name": "Carburizing furnace"
+  },
+  {
+    "id": 554,
+    "name": "Nitriding furnace"
+  },
+  {
+    "id": 555,
+    "name": "Shot peening machine"
+  },
+  {
+    "id": 556,
+    "name": "Ultrasonic cleaner"
+  },
+  {
+    "id": 557,
+    "name": "Parts washer"
+  },
+  {
+    "id": 558,
+    "name": "Degreaser"
+  },
+  {
+    "id": 559,
+    "name": "Vapor degreaser"
+  },
+  {
+    "id": 560,
+    "name": "Paint stripping system"
+  },
+  {
+    "id": 561,
+    "name": "Etching system"
+  },
+  {
+    "id": 562,
+    "name": "Plating bath"
+  },
+  {
+    "id": 563,
+    "name": "Galvanizing line"
+  },
+  {
+    "id": 564,
+    "name": "Rolling mill"
+  },
+  {
+    "id": 565,
+    "name": "Extrusion press"
+  },
+  {
+    "id": 566,
+    "name": "Forging press"
+  },
+  {
+    "id": 567,
+    "name": "Stamping press"
+  },
+  {
+    "id": 568,
+    "name": "Bending machine"
+  },
+  {
+    "id": 569,
+    "name": "Folding machine"
+  },
+  {
+    "id": 570,
+    "name": "Shearing machine"
+  },
+  {
+    "id": 571,
+    "name": "Punching machine"
+  },
+  {
+    "id": 573,
+    "name": "Gear cutting machine"
+  },
+  {
+    "id": 574,
+    "name": "Thread rolling machine"
+  },
+  {
+    "id": 575,
+    "name": "Knurling tool"
+  },
+  {
+    "id": 576,
+    "name": "Tapping machine"
+  },
+  {
+    "id": 577,
+    "name": "Honing machine"
+  },
+  {
+    "id": 578,
+    "name": "Lapping machine"
+  },
+  {
+    "id": 579,
+    "name": "Deburring machine"
+  },
+  {
+    "id": 580,
+    "name": "Tumbler"
+  },
+  {
+    "id": 581,
+    "name": "Vibratory finisher"
+  },
+  {
+    "id": 582,
+    "name": "Belt sander"
+  },
+  {
+    "id": 583,
+    "name": "Disc sander"
+  },
+  {
+    "id": 584,
+    "name": "Orbital sander"
+  },
+  {
+    "id": 585,
+    "name": "Angle grinder"
+  },
+  {
+    "id": 586,
+    "name": "Die grinder"
+  },
+  {
+    "id": 587,
+    "name": "Bench grinder"
+  },
+  {
+    "id": 588,
+    "name": "Surface grinder"
+  },
+  {
+    "id": 589,
+    "name": "Cylindrical grinder"
+  },
+  {
+    "id": 590,
+    "name": "Tool and cutter grinder"
+  },
+  {
+    "id": 591,
+    "name": "Centerless grinder"
+  },
+  {
+    "id": 592,
+    "name": "Jig grinder"
+  },
+  {
+    "id": 593,
+    "name": "Flywheel grinder"
+  },
+  {
+    "id": 594,
+    "name": "Crankshaft grinder"
+  },
+  {
+    "id": 595,
+    "name": "Camshaft grinder"
+  },
+  {
+    "id": 596,
+    "name": "Valve grinding machine"
+  },
+  {
+    "id": 597,
+    "name": "Cylinder honing machine"
+  },
+  {
+    "id": 598,
+    "name": "Brake lathe"
+  },
+  {
+    "id": 599,
+    "name": "Tire balancer"
+  },
+  {
+    "id": 600,
+    "name": "Wheel alignment machine"
+  },
+  {
+    "id": 601,
+    "name": "Engine analyzer"
+  },
+  {
+    "id": 602,
+    "name": "Dynamometer"
+  },
+  {
+    "id": 603,
+    "name": "Emissions analyzer"
+  },
+  {
+    "id": 604,
+    "name": "OBD scanner"
+  },
+  {
+    "id": 605,
+    "name": "Battery tester"
+  },
+  {
+    "id": 606,
+    "name": "Fuel injector tester"
+  },
+  {
+    "id": 607,
+    "name": "Compression tester"
+  },
+  {
+    "id": 608,
+    "name": "Coolant pressure tester"
+  },
+  {
+    "id": 609,
+    "name": "Oil pressure tester"
+  },
+  {
+    "id": 610,
+    "name": "Vacuum gauge"
+  },
+  {
+    "id": 611,
+    "name": "Timing light"
+  },
+  {
+    "id": 612,
+    "name": "Borescope"
+  },
+  {
+    "id": 613,
+    "name": "Endoscope"
+  },
+  {
+    "id": 614,
+    "name": "Stethoscope"
+  },
+  {
+    "id": 615,
+    "name": "Ultrasound machine"
+  },
+  {
+    "id": 616,
+    "name": "X-ray machine"
+  },
+  {
+    "id": 617,
+    "name": "CT scanner"
+  },
+  {
+    "id": 618,
+    "name": "MRI machine"
+  },
+  {
+    "id": 619,
+    "name": "PET scanner"
+  },
+  {
+    "id": 620,
+    "name": "SPECT scanner"
+  },
+  {
+    "id": 621,
+    "name": "Angiography system"
+  },
+  {
+    "id": 622,
+    "name": "Fluoroscopy system"
+  },
+  {
+    "id": 623,
+    "name": "Mammography machine"
+  },
+  {
+    "id": 624,
+    "name": "Bone densitometer"
+  },
+  {
+    "id": 625,
+    "name": "ECG machine"
+  },
+  {
+    "id": 626,
+    "name": "EEG machine"
+  },
+  {
+    "id": 627,
+    "name": "EMG machine"
+  },
+  {
+    "id": 628,
+    "name": "Defibrillator"
+  },
+  {
+    "id": 629,
+    "name": "Ventilator"
+  },
+  {
+    "id": 630,
+    "name": "Anesthesia machine"
+  },
+  {
+    "id": 631,
+    "name": "Dialysis machine"
+  },
+  {
+    "id": 632,
+    "name": "Blood gas analyzer"
+  },
+  {
+    "id": 633,
+    "name": "Hematology analyzer"
+  },
+  {
+    "id": 634,
+    "name": "Chemistry analyzer"
+  },
+  {
+    "id": 635,
+    "name": "Immunoassay analyzer"
+  },
+  {
+    "id": 636,
+    "name": "Coagulation analyzer"
+  },
+  {
+    "id": 637,
+    "name": "Urinalysis analyzer"
+  },
+  {
+    "id": 638,
+    "name": "Blood bank refrigerator"
+  },
+  {
+    "id": 639,
+    "name": "Plasma freezer"
+  },
+  {
+    "id": 640,
+    "name": "Cryogenic freezer"
+  },
+  {
+    "id": 641,
+    "name": "Biological safety cabinet"
+  },
+  {
+    "id": 642,
+    "name": "Sterilizer"
+  },
+  {
+    "id": 643,
+    "name": "Autoclave"
+  },
+  {
+    "id": 644,
+    "name": "Surgical microscope"
+  },
+  {
+    "id": 645,
+    "name": "Dental chair"
+  },
+  {
+    "id": 646,
+    "name": "Dental drill"
+  },
+  {
+    "id": 647,
+    "name": "Dental X-ray"
+  },
+  {
+    "id": 648,
+    "name": "Ophthalmoscope"
+  },
+  {
+    "id": 649,
+    "name": "Retinal camera"
+  },
+  {
+    "id": 650,
+    "name": "Phoropter"
+  },
+  {
+    "id": 651,
+    "name": "Slit lamp"
+  },
+  {
+    "id": 652,
+    "name": "Tonometer"
+  },
+  {
+    "id": 653,
+    "name": "Audiometer"
+  },
+  {
+    "id": 654,
+    "name": "Spiral Lamp"
+  },
+  {
+    "id": 671,
+    "name": "Spirometer"
+  },
+  {
+    "id": 672,
+    "name": "Pulse oximeter"
+  },
+  {
+    "id": 673,
+    "name": "Blood pressure monitor"
+  },
+  {
+    "id": 674,
+    "name": "Thermometer"
+  },
+  {
+    "id": 675,
+    "name": "Otoscope"
+  },
+  {
+    "id": 676,
+    "name": "Laryngoscope"
+  },
+  {
+    "id": 677,
+    "name": "Endoscope"
+  },
+  {
+    "id": 678,
+    "name": "Colonoscope"
+  },
+  {
+    "id": 679,
+    "name": "Bronchoscope"
+  },
+  {
+    "id": 680,
+    "name": "Laparoscope"
+  },
+  {
+    "id": 681,
+    "name": "Arthroscope"
+  },
+  {
+    "id": 682,
+    "name": "Cystoscope"
+  },
+  {
+    "id": 683,
+    "name": "Surgical robot"
+  },
+  {
+    "id": 684,
+    "name": "Radiation therapy machine"
+  },
+  {
+    "id": 685,
+    "name": "Brachytherapy system"
+  },
+  {
+    "id": 686,
+    "name": "Gamma knife"
+  },
+  {
+    "id": 687,
+    "name": "Proton therapy system"
+  },
+  {
+    "id": 688,
+    "name": "Hyperbaric chamber"
+  },
+  {
+    "id": 689,
+    "name": "Lithotripter"
+  },
+  {
+    "id": 690,
+    "name": "LASIK machine"
+  },
+  {
+    "id": 691,
+    "name": "Cardiac catheterization lab"
+  },
+  {
+    "id": 692,
+    "name": "Electrophysiology lab"
+  },
+  {
+    "id": 693,
+    "name": "Sleep study system"
+  },
+  {
+    "id": 694,
+    "name": "Gait analysis system"
+  },
+  {
+    "id": 695,
+    "name": "Balance testing system"
+  },
+  {
+    "id": 696,
+    "name": "Isokinetic testing machine"
+  },
+  {
+    "id": 697,
+    "name": "Treadmill stress test system"
+  },
+  {
+    "id": 698,
+    "name": "Prosthetic limb"
+  },
+  {
+    "id": 699,
+    "name": "Orthotic device"
+  },
+  {
+    "id": 700,
+    "name": "Wheelchair"
+  },
+  {
+    "id": 701,
+    "name": "Hospital bed"
+  },
+  {
+    "id": 702,
+    "name": "Stretcher"
+  },
+  {
+    "id": 703,
+    "name": "Infusion pump"
+  },
+  {
+    "id": 704,
+    "name": "Syringe pump"
+  },
+  {
+    "id": 705,
+    "name": "Patient monitor"
+  },
+  {
+    "id": 706,
+    "name": "Surgical light"
+  },
+  {
+    "id": 707,
+    "name": "Operating table"
+  },
+  {
+    "id": 708,
+    "name": "Anesthesia cart"
+  },
+  {
+    "id": 709,
+    "name": "Crash cart"
+  },
+  {
+    "id": 710,
+    "name": "Medication dispenser"
+  },
+  {
+    "id": 711,
+    "name": "Pill counter"
+  },
+  {
+    "id": 712,
+    "name": "Compounding robot"
+  },
+  {
+    "id": 713,
+    "name": "Pharmaceutical isolator"
+  },
+  {
+    "id": 714,
+    "name": "Cleanroom"
+  },
+  {
+    "id": 715,
+    "name": "Laminar flow hood"
+  },
+  {
+    "id": 716,
+    "name": "Biological safety cabinet"
+  },
+  {
+    "id": 717,
+    "name": "Fume hood"
+  },
+  {
+    "id": 718,
+    "name": "Incubator"
+  },
+  {
+    "id": 719,
+    "name": "CO2 incubator"
+  },
+  {
+    "id": 720,
+    "name": "Shaking incubator"
+  },
+  {
+    "id": 721,
+    "name": "Microplate reader"
+  },
+  {
+    "id": 722,
+    "name": "Microplate washer"
+  },
+  {
+    "id": 723,
+    "name": "Microarray scanner"
+  },
+  {
+    "id": 724,
+    "name": "DNA sequencer"
+  },
+  {
+    "id": 725,
+    "name": "PCR thermocycler"
+  },
+  {
+    "id": 726,
+    "name": "Real-time PCR system"
+  },
+  {
+    "id": 727,
+    "name": "Gel documentation system"
+  },
+  {
+    "id": 728,
+    "name": "Western blot imager"
+  },
+  {
+    "id": 729,
+    "name": "ELISA reader"
+  },
+  {
+    "id": 730,
+    "name": "Flow cytometer"
+  },
+  {
+    "id": 731,
+    "name": "Cell sorter"
+  },
+  {
+    "id": 732,
+    "name": "Cell counter"
+  },
+  {
+    "id": 733,
+    "name": "Automated cell culture system"
+  },
+  {
+    "id": 734,
+    "name": "Cryogenic storage system"
+  },
+  {
+    "id": 735,
+    "name": "Liquid nitrogen tank"
+  },
+  {
+    "id": 736,
+    "name": "Ultralow freezer"
+  },
+  {
+    "id": 737,
+    "name": "Lyophilizer"
+  },
+  {
+    "id": 738,
+    "name": "Rotary evaporator"
+  },
+  {
+    "id": 739,
+    "name": "Vacuum concentrator"
+  },
+  {
+    "id": 740,
+    "name": "Microwave digestion system"
+  },
+  {
+    "id": 741,
+    "name": "Protein crystallization robot"
+  },
+  {
+    "id": 742,
+    "name": "X-ray crystallography system"
+  },
+  {
+    "id": 743,
+    "name": "Electron microscope"
+  },
+  {
+    "id": 744,
+    "name": "Confocal microscope"
+  },
+  {
+    "id": 745,
+    "name": "Super-resolution microscope"
+  },
+  {
+    "id": 746,
+    "name": "Atomic force microscope"
+  },
+  {
+    "id": 747,
+    "name": "Raman spectrometer"
+  },
+  {
+    "id": 748,
+    "name": "FTIR spectrometer"
+  },
+  {
+    "id": 749,
+    "name": "UV-Vis spectrophotometer"
+  },
+  {
+    "id": 750,
+    "name": "Flame photometer"
+  },
+  {
+    "id": 751,
+    "name": "Atomic absorption spectrometer"
+  },
+  {
+    "id": 752,
+    "name": "ICP-MS"
+  },
+  {
+    "id": 753,
+    "name": "ICP-OES"
+  },
+  {
+    "id": 754,
+    "name": "XRF spectrometer"
+  },
+  {
+    "id": 755,
+    "name": "XPS system"
+  },
+  {
+    "id": 756,
+    "name": "MALDI-TOF mass spectrometer"
+  },
+  {
+    "id": 757,
+    "name": "GC-MS"
+  },
+  {
+    "id": 758,
+    "name": "LC-MS"
+  },
+  {
+    "id": 759,
+    "name": "NMR spectrometer"
+  },
+  {
+    "id": 760,
+    "name": "EPR spectrometer"
+  },
+  {
+    "id": 761,
+    "name": "CD spectrometer"
+  },
+  {
+    "id": 762,
+    "name": "Fluorescence spectrometer"
+  },
+  {
+    "id": 763,
+    "name": "Luminometer"
+  },
+  {
+    "id": 764,
+    "name": "Nephelometer"
+  },
+  {
+    "id": 765,
+    "name": "Turbidimeter"
+  },
+  {
+    "id": 766,
+    "name": "Particle size analyzer"
+  },
+  {
+    "id": 767,
+    "name": "Zeta potential analyzer"
+  },
+  {
+    "id": 768,
+    "name": "Surface area analyzer"
+  },
+  {
+    "id": 769,
+    "name": "Porosimeter"
+  },
+  {
+    "id": 770,
+    "name": "Rheometer"
+  },
+  {
+    "id": 771,
+    "name": "Viscometer"
+  },
+  {
+    "id": 772,
+    "name": "Tensiometer"
+  },
+  {
+    "id": 773,
+    "name": "Contact angle goniometer"
+  },
+  {
+    "id": 774,
+    "name": "Thermal analyzer"
+  },
+  {
+    "id": 775,
+    "name": "Calorimeter"
+  },
+  {
+    "id": 776,
+    "name": "Thermogravimetric analyzer"
+  },
+  {
+    "id": 777,
+    "name": "Differential scanning calorimeter"
+  },
+  {
+    "id": 778,
+    "name": "Dilatometer"
+  },
+  {
+    "id": 779,
+    "name": "Thermal conductivity analyzer"
+  },
+  {
+    "id": 780,
+    "name": "Flash diffusivity analyzer"
+  },
+  {
+    "id": 781,
+    "name": "Dynamic mechanical analyzer"
+  },
+  {
+    "id": 782,
+    "name": "Tribometer"
+  },
+  {
+    "id": 783,
+    "name": "Hardness tester"
+  },
+  {
+    "id": 784,
+    "name": "Impact tester"
+  },
+  {
+    "id": 785,
+    "name": "Fatigue tester"
+  },
+  {
+    "id": 786,
+    "name": "Creep tester"
+  },
+  {
+    "id": 787,
+    "name": "Universal testing machine"
+  },
+  {
+    "id": 788,
+    "name": "Tensile tester"
+  },
+  {
+    "id": 789,
+    "name": "Compression tester"
+  },
+  {
+    "id": 790,
+    "name": "Bend tester"
+  },
+  {
+    "id": 791,
+    "name": "Torsion tester"
+  },
+  {
+    "id": 792,
+    "name": "Wear tester"
+  },
+  {
+    "id": 793,
+    "name": "Scratch tester"
+  },
+  {
+    "id": 794,
+    "name": "Peel tester"
+  },
+  {
+    "id": 795,
+    "name": "Adhesion tester"
+  },
+  {
+    "id": 796,
+    "name": "Abrasion tester"
+  },
+  {
+    "id": 797,
+    "name": "Weathering tester"
+  },
+  {
+    "id": 798,
+    "name": "Salt spray chamber"
+  },
+  {
+    "id": 799,
+    "name": "Humidity chamber"
+  },
+  {
+    "id": 800,
+    "name": "Thermal shock chamber"
+  },
+  {
+    "id": 801,
+    "name": "Vibration test system"
+  },
+  {
+    "id": 802,
+    "name": "Shock test system"
+  },
+  {
+    "id": 803,
+    "name": "Centrifuge test system"
+  },
+  {
+    "id": 804,
+    "name": "Vacuum test chamber"
+  },
+  {
+    "id": 805,
+    "name": "Pressure test chamber"
+  },
+  {
+    "id": 806,
+    "name": "EMC test chamber"
+  },
+  {
+    "id": 807,
+    "name": "Anechoic chamber"
+  },
+  {
+    "id": 808,
+    "name": "RF test chamber"
+  },
+  {
+    "id": 809,
+    "name": "ESD simulator"
+  },
+  {
+    "id": 810,
+    "name": "Network analyzer"
+  },
+  {
+    "id": 811,
+    "name": "Spectrum analyzer"
+  },
+  {
+    "id": 812,
+    "name": "Signal generator"
+  },
+  {
+    "id": 813,
+    "name": "Power meter"
+  },
+  {
+    "id": 814,
+    "name": "Oscilloscope"
+  },
+  {
+    "id": 815,
+    "name": "Logic analyzer"
+  },
+  {
+    "id": 816,
+    "name": "Protocol analyzer"
+  },
+  {
+    "id": 817,
+    "name": "Bit error rate tester"
+  },
+  {
+    "id": 818,
+    "name": "Cable tester"
+  },
+  {
+    "id": 819,
+    "name": "Optical time-domain reflectometer"
+  },
+  {
+    "id": 820,
+    "name": "Fiber optic power meter"
+  },
+  {
+    "id": 821,
+    "name": "Optical spectrum analyzer"
+  },
+  {
+    "id": 822,
+    "name": "Wavelength meter"
+  },
+  {
+    "id": 823,
+    "name": "Laser power meter"
+  },
+  {
+    "id": 824,
+    "name": "Beam profiler"
+  },
+  {
+    "id": 825,
+    "name": "Interferometer"
+  },
+  {
+    "id": 826,
+    "name": "Ellipsometer"
+  },
+  {
+    "id": 827,
+    "name": "Profilometer"
+  },
+  {
+    "id": 828,
+    "name": "Coordinate measuring machine"
+  },
+  {
+    "id": 829,
+    "name": "Optical comparator"
+  },
+  {
+    "id": 830,
+    "name": "Vision measuring system"
+  },
+  {
+    "id": 831,
+    "name": "3D scanner"
+  },
+  {
+    "id": 832,
+    "name": "Laser tracker"
+  },
+  {
+    "id": 833,
+    "name": "Theodolite"
+  },
+  {
+    "id": 834,
+    "name": "Total station"
+  },
+  {
+    "id": 835,
+    "name": "GPS receiver"
+  },
+  {
+    "id": 836,
+    "name": "Laser distance meter"
+  },
+  {
+    "id": 837,
+    "name": "Laser level"
+  },
+  {
+    "id": 838,
+    "name": "Inclinometer"
+  },
+  {
+    "id": 839,
+    "name": "Accelerometer"
+  },
+  {
+    "id": 840,
+    "name": "Gyroscope"
+  },
+  {
+    "id": 841,
+    "name": "Magnetometer"
+  },
+  {
+    "id": 842,
+    "name": "Pressure sensor"
+  },
+  {
+    "id": 843,
+    "name": "Temperature sensor"
+  },
+  {
+    "id": 844,
+    "name": "Humidity sensor"
+  },
+  {
+    "id": 845,
+    "name": "Gas sensor"
+  },
+  {
+    "id": 846,
+    "name": "Flow sensor"
+  },
+  {
+    "id": 847,
+    "name": "Level sensor"
+  },
+  {
+    "id": 848,
+    "name": "Proximity sensor"
+  },
+  {
+    "id": 849,
+    "name": "Force sensor"
+  },
+  {
+    "id": 850,
+    "name": "Torque sensor"
+  },
+  {
+    "id": 851,
+    "name": "Strain gauge"
+  },
+  {
+    "id": 852,
+    "name": "Load cell"
+  },
+  {
+    "id": 853,
+    "name": "Displacement sensor"
+  },
+  {
+    "id": 854,
+    "name": "Tilt sensor"
+  },
+  {
+    "id": 855,
+    "name": "Vibration sensor"
+  },
+  {
+    "id": 856,
+    "name": "Acoustic emission sensor"
+  },
+  {
+    "id": 857,
+    "name": "Ultrasonic sensor"
+  },
+  {
+    "id": 858,
+    "name": "Infrared sensor"
+  },
+  {
+    "id": 859,
+    "name": "Photoelectric sensor"
+  },
+  {
+    "id": 860,
+    "name": "Hall effect sensor"
+  },
+  {
+    "id": 861,
+    "name": "Encoder"
+  },
+  {
+    "id": 862,
+    "name": "Resolver"
+  },
+  {
+    "id": 863,
+    "name": "LVDT"
+  },
+  {
+    "id": 864,
+    "name": "Potentiometer"
+  },
+  {
+    "id": 865,
+    "name": "Thermocouple"
+  },
+  {
+    "id": 866,
+    "name": "RTD"
+  },
+  {
+    "id": 867,
+    "name": "Thermistor"
+  },
+  {
+    "id": 868,
+    "name": "Pyrometer"
+  },
+  {
+    "id": 869,
+    "name": "Thermal imager"
+  },
+  {
+    "id": 870,
+    "name": "Night vision device"
+  },
+  {
+    "id": 871,
+    "name": "Binoculars"
+  },
+  {
+    "id": 872,
+    "name": "Telescope"
+  },
+  {
+    "id": 873,
+    "name": "Microscope"
+  },
+  {
+    "id": 874,
+    "name": "Endoscope"
+  },
+  {
+    "id": 875,
+    "name": "Borescope"
+  },
+  {
+    "id": 876,
+    "name": "Fiberscope"
+  },
+  {
+    "id": 877,
+    "name": "Camera"
+  },
+  {
+    "id": 878,
+    "name": "Video camera"
+  },
+  {
+    "id": 879,
+    "name": "Action camera"
+  },
+  {
+    "id": 880,
+    "name": "Drone"
+  },
+  {
+    "id": 881,
+    "name": "Robot"
+  },
+  {
+    "id": 882,
+    "name": "Robotic arm"
+  },
+  {
+    "id": 883,
+    "name": "CNC machine"
+  },
+  {
+    "id": 885,
+    "name": "Laser cutter"
+  },
+  {
+    "id": 886,
+    "name": "Plasma cutter"
+  },
+  {
+    "id": 887,
+    "name": "Waterjet cutter"
+  },
+  {
+    "id": 888,
+    "name": "EDM machine"
+  },
+  {
+    "id": 889,
+    "name": "Injection molding machine"
+  },
+  {
+    "id": 890,
+    "name": "Extraction Cube"
+  },
+  {
+    "id": 891,
+    "name": "Extrusion machine"
+  },
+  {
+    "id": 892,
+    "name": "Blow molding machine"
+  },
+  {
+    "id": 893,
+    "name": "Thermoforming machine"
+  },
+  {
+    "id": 894,
+    "name": "Vacuum forming machine"
+  },
+  {
+    "id": 895,
+    "name": "Rotational molding machine"
+  },
+  {
+    "id": 896,
+    "name": "Compression molding machine"
+  },
+  {
+    "id": 897,
+    "name": "Transfer molding machine"
+  },
+  {
+    "id": 898,
+    "name": "Pultrusion machine"
+  },
+  {
+    "id": 899,
+    "name": "Filament winding machine"
+  },
+  {
+    "id": 900,
+    "name": "Resin transfer molding machine"
+  },
+  {
+    "id": 901,
+    "name": "Sheet metal brake"
+  },
+  {
+    "id": 902,
+    "name": "Sheet metal shear"
+  },
+  {
+    "id": 903,
+    "name": "Sheet metal roller"
+  },
+  {
+    "id": 904,
+    "name": "Tube bender"
+  },
+  {
+    "id": 905,
+    "name": "Wire bender"
+  },
+  {
+    "id": 906,
+    "name": "Spring coiler"
+  },
+  {
+    "id": 907,
+    "name": "Stamping press"
+  },
+  {
+    "id": 908,
+    "name": "Forging press"
+  },
+  {
+    "id": 909,
+    "name": "Hydraulic press"
+  },
+  {
+    "id": 910,
+    "name": "Mechanical press"
+  },
+  {
+    "id": 911,
+    "name": "Punch press"
+  },
+  {
+    "id": 912,
+    "name": "Broaching machine"
+  },
+  {
+    "id": 913,
+    "name": "Gear cutting machine"
+  },
+  {
+    "id": 914,
+    "name": "Gear grinding machine"
+  },
+  {
+    "id": 915,
+    "name": "Gear hobbing machine"
+  },
+  {
+    "id": 916,
+    "name": "Gear shaping machine"
+  },
+  {
+    "id": 917,
+    "name": "Thread rolling machine"
+  },
+  {
+    "id": 918,
+    "name": "Tapping machine"
+  },
+  {
+    "id": 919,
+    "name": "Boring machine"
+  },
+  {
+    "id": 920,
+    "name": "Drilling machine"
+  },
+  {
+    "id": 921,
+    "name": "Milling machine"
+  },
+  {
+    "id": 922,
+    "name": "Lathe"
+  },
+  {
+    "id": 923,
+    "name": "Grinding machine"
+  },
+  {
+    "id": 924,
+    "name": "Honing machine"
+  },
+  {
+    "id": 925,
+    "name": "Lapping machine"
+  },
+  {
+    "id": 926,
+    "name": "Polishing machine"
+  },
+  {
+    "id": 927,
+    "name": "Deburring machine"
+  },
+  {
+    "id": 928,
+    "name": "Sandblasting cabinet"
+  },
+  {
+    "id": 929,
+    "name": "Shot peening machine"
+  },
+  {
+    "id": 930,
+    "name": "Ultrasonic cleaning machine"
+  },
+  {
+    "id": 931,
+    "name": "Parts washer"
+  },
+  {
+    "id": 932,
+    "name": "Vapor degreaser"
+  },
+  {
+    "id": 933,
+    "name": "Etching machine"
+  },
+  {
+    "id": 934,
+    "name": "Anodizing tank"
+  },
+  {
+    "id": 935,
+    "name": "Electroplating tank"
+  },
+  {
+    "id": 936,
+    "name": "Powder coating system"
+  },
+  {
+    "id": 937,
+    "name": "Paint booth"
+  },
+  {
+    "id": 938,
+    "name": "Curing oven"
+  },
+  {
+    "id": 939,
+    "name": "Heat treating furnace"
+  },
+  {
+    "id": 940,
+    "name": "Quenching tank"
+  },
+  {
+    "id": 941,
+    "name": "Tempering furnace"
+  },
+  {
+    "id": 943,
+    "name": "Carburizing furnace"
+  },
+  {
+    "id": 944,
+    "name": "Nitriding furnace"
+  },
+  {
+    "id": 945,
+    "name": "Induction heater"
+  },
+  {
+    "id": 946,
+    "name": "Laser heat treater"
+  },
+  {
+    "id": 947,
+    "name": "Electron beam welder"
+  },
+  {
+    "id": 948,
+    "name": "Friction stir welder"
+  },
+  {
+    "id": 949,
+    "name": "Ultrasonic welder"
+  },
+  {
+    "id": 950,
+    "name": "Resistance spot welder"
+  },
+  {
+    "id": 951,
+    "name": "TIG welder"
+  },
+  {
+    "id": 952,
+    "name": "MIG welder"
+  },
+  {
+    "id": 953,
+    "name": "Stick welder"
+  },
+  {
+    "id": 954,
+    "name": "Plasma cutter"
+  },
+  {
+    "id": 955,
+    "name": "Oxy-fuel cutting torch"
+  },
+  {
+    "id": 956,
+    "name": "Laser engraver"
+  },
+  {
+    "id": 957,
+    "name": "CNC router"
+  },
+  {
+    "id": 958,
+    "name": "Wire EDM machine"
+  },
+  {
+    "id": 959,
+    "name": "Sinker EDM machine"
+  },
+  {
+    "id": 961,
+    "name": "Rapid prototyping machine"
+  },
+  {
+    "id": 962,
+    "name": "Industrial CT scanner"
+  },
+  {
+    "id": 963,
+    "name": "X-ray inspection system"
+  },
+  {
+    "id": 964,
+    "name": "Optical inspection system"
+  },
+  {
+    "id": 965,
+    "name": "CMM (Coordinate Measuring Machine)"
+  },
+  {
+    "id": 966,
+    "name": "Surface roughness tester"
+  },
+  {
+    "id": 967,
+    "name": "Hardness tester"
+  },
+  {
+    "id": 968,
+    "name": "Tensile testing machine"
+  },
+  {
+    "id": 969,
+    "name": "Fatigue testing machine"
+  },
+  {
+    "id": 970,
+    "name": "Impact testing machine"
+  },
+  {
+    "id": 971,
+    "name": "Wear testing machine"
+  },
+  {
+    "id": 972,
+    "name": "Vibration test system"
+  },
+  {
+    "id": 973,
+    "name": "Environmental test chamber"
+  },
+  {
+    "id": 974,
+    "name": "Vacuum chamber"
+  },
+  {
+    "id": 975,
+    "name": "Clean room"
+  },
+  {
+    "id": 976,
+    "name": "Fume hood"
+  },
+  {
+    "id": 977,
+    "name": "Dust collector"
+  },
+  {
+    "id": 978,
+    "name": "Industrial ventilation system"
+  },
+  {
+    "id": 979,
+    "name": "Compressed air system"
+  },
+  {
+    "id": 980,
+    "name": "Hydraulic power unit"
+  },
+  {
+    "id": 981,
+    "name": "Pneumatic system"
+  },
+  {
+    "id": 982,
+    "name": "Vacuum pump"
+  },
+  {
+    "id": 983,
+    "name": "Industrial chiller"
+  },
+  {
+    "id": 984,
+    "name": "Cooling tower"
+  },
+  {
+    "id": 985,
+    "name": "Boiler"
+  },
+  {
+    "id": 986,
+    "name": "Steam generator"
+  },
+  {
+    "id": 987,
+    "name": "Heat exchanger"
+  },
+  {
+    "id": 988,
+    "name": "Industrial oven"
+  },
+  {
+    "id": 989,
+    "name": "Industrial refrigerator"
+  },
+  {
+    "id": 990,
+    "name": "Conveyor system"
+  },
+  {
+    "id": 991,
+    "name": "Automated guided vehicle (AGV)"
+  },
+  {
+    "id": 992,
+    "name": "Forklift"
+  },
+  {
+    "id": 993,
+    "name": "Pallet jack"
+  },
+  {
+    "id": 994,
+    "name": "Crane"
+  },
+  {
+    "id": 995,
+    "name": "Hoist"
+  },
+  {
+    "id": 996,
+    "name": "Lift table"
+  },
+  {
+    "id": 997,
+    "name": "Scissor lift"
+  },
+  {
+    "id": 998,
+    "name": "Wisdom"
+  },
+  {
+    "id": 999,
+    "name": "Xylophone"
+  },
+  {
+    "id": 1000,
+    "name": "Yacht"
+  },
+  {
+    "id": 1001,
+    "name": "Backpack"
+  },
+  {
+    "id": 1002,
+    "name": "Avocado"
+  }
+]
